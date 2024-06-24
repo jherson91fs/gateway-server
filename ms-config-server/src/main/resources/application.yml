@@ -1,5 +1,5 @@
 server:
-  port: 7170
+  port: 7070
 
 
 spring:
